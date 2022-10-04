@@ -2,6 +2,8 @@
 
 The original website is stil up (https://sites.google.com/site/amitomiautoboat/home)
 
+![V1](images/amitomiv1.png "V1")
+
 ## Introduction
 
 This is the home of a hobby project: amitomi, an "unmanned" RC sailing boat.
